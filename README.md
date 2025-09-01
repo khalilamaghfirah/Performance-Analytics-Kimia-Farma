@@ -27,12 +27,12 @@ By leveraging **Google BigQuery** for data processing and **Looker Studio** for 
 
 ## How to Use  
 - **Access SQL Queries**  
-  Check the file tabel_analisa.sql to view the BigQuery syntax used in this project.  
+  Check the file [tabel_analisa.sql](./sql_queries/tabel_analisa.sql) to view the BigQuery syntax used in this project.  
 
 - **Access Interactive Dashboard**  
   Explore the full dashboard in Looker Studio: [Click here](https://bit.ly/kfdashboardlila)  
 
 - **Dashboard Preview (PDF)**  
-  Open the file [`dashboard_kimiafarma.pdf`](./dashboard/dashboard_kimiafarma.pdf) for visualizations.  
+  Open the file [Download PDF](https://bit.ly/kfanalyticslila)  for visualizations.  
 
 ---
